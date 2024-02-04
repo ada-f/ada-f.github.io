@@ -1,97 +1,114 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Chemistry
+      institution: Harvard University
+      year: 2022-present
+      description: "PI: Professor Marinka Zitnik. Research area: machine learning for chemistry and drug discovery"
+    - title: Cross Registered Student
+      institution: Massachusetts Institute of Technology
+      year: 2022-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        summary: "Courses taken:"
+        courses: 
+          - '6.7900 Machine Learning - GRD: A'
+          - '6.S966 Symmetry and its Application to Machine Learning - GRD: A+' 
+          - '6.S986 Large Language Models and Beyond - audited'
+          - '6.S898 Deep Learning - GRD: A+'
+    - title: Bachelor of Science (Honours)
+      institution: University of Sydney
+      year: 2018-2021
+      description: "Majors: Chemistry and Mathematics. Honours Class I and University Medal. WAM: 92.4. Thesis title: Study of photocyclisation and spin crossover in metal-organic frameworks under pressure. Advisors: Prof. Deanna D’Alessandro, Prof. Cameron Kepert"
+    - title: Exchange Semester
+      institution: University of California, Berkeley
+      year: 2019 Fall
+      description: 4.00 GPA
 
-- title: Experience
+- title: Industry Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Data Science Fellow
+      institution: McKinsey and Company, QuantumBlack
+      year: 2022
+      description: "Led client conversations to manage the scoping and prioritization of advanced analytics use-cases. Successfully developed a linear optimizer tool to improve operations planning for an agricultural client which will increase value capture throughout their supply chain."
+    - title: Quantitative Trader Intern
+      institution: Optiver
+      year: 2021
+      description: "Developed data-driven strategies to profitably trade financial products at high frequency. Created auto-traders to profit from short-term stock price variations and manually traded option contracts on a simulated version of the Hong Kong derivative market."
+    - title: Software Engineering Intern
+      institution: Google
+      year: 2020
+      description: "Revolutionized launcher search in Chrome OS by developing a robust statistical model using quantile transformation and reservoir sampling to rank scores of search results to replace former heuristic based search result ranking method. Successfully completed entire design process: design docs, design reviews and implementation of new classes in C++ in the Chromium code base. Also led testing of infrastructure with unit tests."
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Mentoring and Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Residential Advisor & Social Liaison
+      institution: Harvard Kenneth C. Griffin Graduate School of Arts and Sciences Residence Halls
+      year: 2023-2024
+      items:
+        - Mentored and managed a floor of 30 residents. This included caring for students' wellbeing, liaising with custodial staff, and organization of biweekly events for the floor such as breakfasts, cultural nights, dessert nights, games nights, and painting.
+        - Fostering community engagement with the organization of successful and popular hall-wide events (Halloween Party and Thanksgiving Lunch) catering up to 100 attendees.
+    - title: Life and Physical Sciences. LPSA Teaching Fellow
+      institution: Harvard University
+      year: 2023
+      items:
+        - Facilitated two weekly sections involving interactive discussions and problem-solving sessions to deepen students' grasp of chemistry and biology principles.
+        - Adapted teaching methods to accommodate diverse learning styles, ensuring an inclusive and accessible educational experience.
+    - title: Foundations and Frontiers of Modern Chemistry - A Molecular and Global Perspective. PHYSCI 11 Teaching Fellow
+      institution: Harvard University
+      year: 2023
+      items:
+        - Led three lab sections on laboratory topics for general chemistry. 
+        - Assessed and provided constructive feedback on lab reports and assignments, fostering students' academic growth.
+        - Maintained regular office hours to provide one-on-one academic support and mentorship.
+    - title: Algorithm Design COMP3027 Teaching Fellow
+      institution: University of Sydney
+      year: 2021
+      items:
+        - Led weekly tutorial with 30 students on the following algorithm topics - greedy algorithms, dynamic programming, divide and conquer, network flow and P and NP. 
+        - Successfully taught complex senior level computer science topics whilst in an online context.
+    - title: Vice President of Women in Science Society
+      institution: University of Sydney
+      year: 2018-2021
+      items:
+        - Partnered with various companies to host and manage diverse events such as women in STEM panels, trade-a-thons and successful cocktail nights with 100+ attendees.
+        - Secured Google as a new major sponsor for our 2019 Women in STEM Night and doubled our sponsors from 2019 to 2020.
 
-- title: Honors and Awards
+
+- title: Fellowships and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Selected as one of 10 PhD fellows at the Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard University. This institute is funded by the Chan Zuckerberg Initiative. 
+    - year: 2022
       items:
-        - Max Planck Medal
+        - University Medal for Honors in Chemistry at University of Sydney
+        - $250,000 Student Prize for Carbon Removal - XPRIZE funded by the Elon Musk Foundation
+        - Janet Elspeth Crawford Prize in Chemistry
+    - year: 2019
+      items:
+      - "Australian Gov. Endeavour Leadership Program Mobility Grant" 
+      - "Charles E Fawsitt Prize for Chemistry" 
+      - "Levey Scholarship No III for Chemistry"
+      - "Dean's List of Excellence in Academic Performance"
+      - "Academic Merit Scholarship"
+      - "Mrs Elva Rae Talented Mathematics Student Award for highest achieving female student in mathematics" 
+    - year: 2018
+      items:
+      - Vice Chancellor Scholarship for students with a 99.95 ATAR (awarded to top 0.05% of students in the state of New South Wales, Australia)
+      - Liversidge Chemistry Scholarship 
+      - Science Olympiad Scholarship 
+      - Science Top of State Scholarship 
+      - 49th International Chemistry Olympiad Bronze Medal selected as one of four students from Australia to compete internationally
+    - year: 2017
+      items:
+      - Bronze Medal at 49th International Chemistry Olympiad
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
+- title: Conferences
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - NeurIPS 2023, New Frontiers of AI for Drug Discovery and Development. Student Volunteer.

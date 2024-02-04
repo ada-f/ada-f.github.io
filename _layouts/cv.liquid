@@ -25,7 +25,6 @@ layout: default
       <div class="cv">
         {% for entry in site.data.cv %}
           <a class="anchor" id="{{ entry.title }}"></a>
-          <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
             <div>
               {% if entry.type == 'list' %}
@@ -42,7 +41,6 @@ layout: default
                 {{ entry.contents }}
               {% endif %}
             </div>
-          </div>
         {% endfor %}
       </div>
     </article>
@@ -77,7 +75,6 @@ layout: default
           {% endif %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
-          <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
               {% case data[0] %}
@@ -85,7 +82,7 @@ layout: default
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
-                {% when 'work' %}
+                {% when 'industry experience' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
@@ -109,7 +106,6 @@ layout: default
 
               {% endcase %}
             </div>
-          </div>
         {% endfor %}
       </div>
     </article>
