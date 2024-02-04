@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: hhttps://ada-f.github.io/sitemap.xml
+Sitemap: https://ada-f.github.io/sitemap.xml
