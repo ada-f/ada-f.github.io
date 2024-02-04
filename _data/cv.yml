@@ -4,21 +4,25 @@
     - title: PhD in Chemistry
       institution: Harvard University
       year: 2022-present
-      description: "PI: Professor Marinka Zitnik. Research area: machine learning for chemistry and drug discovery"
+      description: 
+        - "PI: Professor Marinka Zitnik."
+        - "Research area: machine learning for chemistry and drug discovery"
     - title: Cross Registered Student
       institution: Massachusetts Institute of Technology
       year: 2022-present
       description:
-        summary: "Courses taken:"
-        courses:
-          - '6.7900 Machine Learning - GRD: A'
-          - '6.S966 Symmetry and its Application to Machine Learning - GRD: A+'
-          - '6.S986 Large Language Models and Beyond - audited'
-          - '6.S898 Deep Learning - GRD: A+'
+          - "6.7900 Machine Learning - GRD: A"
+          - "6.S966 Symmetry and its Application to Machine Learning - GRD: A+"
+          - "6.S986 Large Language Models and Beyond - audited"
+          - "6.S898 Deep Learning - GRD: A+"
     - title: Bachelor of Science (Honours)
       institution: University of Sydney
       year: 2018-2021
-      description: "Majors: Chemistry and Mathematics. Honours Class I and University Medal. WAM: 92.4. Thesis title: Study of photocyclisation and spin crossover in metal-organic frameworks under pressure. Advisors: Prof. Deanna D’Alessandro, Prof. Cameron Kepert"
+      description: 
+        - "Majors: Chemistry and Mathematics. Honours Class I and University Medal." 
+        - "WAM: 92.4" 
+        - "Thesis title: Study of photocyclisation and spin crossover in metal-organic frameworks under pressure."
+        - "Advisors: Prof. Deanna D’Alessandro, Prof. Cameron Kepert"
     - title: Exchange Semester
       institution: University of California, Berkeley
       year: 2019 Fall
@@ -30,15 +34,21 @@
     - title: Data Science Fellow
       institution: McKinsey and Company, QuantumBlack
       year: 2022
-      description: "Led client conversations to manage the scoping and prioritization of advanced analytics use-cases. Successfully developed a linear optimizer tool to improve operations planning for an agricultural client which will increase value capture throughout their supply chain."
+      description: 
+        - "Led client conversations to manage the scoping and prioritization of advanced analytics use-cases." 
+        - "Successfully developed a linear optimizer tool to improve operations planning for an agricultural client which will increase value capture throughout their supply chain."
     - title: Quantitative Trader Intern
       institution: Optiver
       year: 2021
-      description: "Developed data-driven strategies to profitably trade financial products at high frequency. Created auto-traders to profit from short-term stock price variations and manually traded option contracts on a simulated version of the Hong Kong derivative market."
+      description: 
+        - "Developed data-driven strategies to profitably trade financial products at high frequency."
+        - "Created auto-traders to profit from short-term stock price variations and manually traded option contracts on a simulated version of the Hong Kong derivative market."
     - title: Software Engineering Intern
       institution: Google
       year: 2020
-      description: "Revolutionized launcher search in Chrome OS by developing a robust statistical model using quantile transformation and reservoir sampling to rank scores of search results to replace former heuristic based search result ranking method. Successfully completed entire design process: design docs, design reviews and implementation of new classes in C++ in the Chromium code base. Also led testing of infrastructure with unit tests."
+      description: 
+        - "Revolutionized launcher search in Chrome OS by developing a robust statistical model using quantile transformation and reservoir sampling to rank scores of search results to replace former heuristic based search result ranking method." 
+        - "Successfully completed entire design process: design docs, design reviews and implementation of new classes in C++ in the Chromium code base. Also led testing of infrastructure with unit tests."
 
 
 - title: Mentoring and Teaching Experience

@@ -366,7 +366,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
 
     a {
       i::before {
@@ -459,9 +459,9 @@ footer.sticky-bottom {
       border-color: var(--global-divider-color);
 
       .badge {
-        background-color: transparent !important;
+        // background-color: transparent !important;
         // color: var(--global-card-bg-color) !important;
-        // background-color: var(--global-theme-color) !important;
+        background-color: var(--global-theme-color) !important;
       }
     }
   }
@@ -656,7 +656,7 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: var(--global-text-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
