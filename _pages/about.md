@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://chemistry.harvard.edu/people/ada-fang'>Harvard University</a>. Cambridge, MA. 
+subtitle: <a href='https://chemistry.harvard.edu/people/ada-fang'>Harvard University</a>. Cambridge, MA.
 
 profile:
   align: right
