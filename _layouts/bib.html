@@ -1,0 +1,23 @@
+<div class="pub-item">
+  <div class="pub-item__image">
+    <img src="/assets/img/papers/{{ entry.key }}.svg" alt="{{ entry.title }}" onerror="this.style.display='none'">
+  </div>
+  <div class="pub-item__body">
+    <div class="pub-item__tags">
+      {% if entry.year %}<span class="pub-tag pub-tag--year">{{ entry.year }}</span>{% endif %}
+      <span class="pub-tag-sep">&middot;</span>
+      {% if entry.journal %}<span class="pub-tag pub-tag--type">Paper</span>
+      {% elsif entry.booktitle %}<span class="pub-tag pub-tag--type">Workshop</span>
+      {% else %}<span class="pub-tag pub-tag--type">Preprint</span>{% endif %}
+    </div>
+    <div class="pub-item__title">{{ entry.title }}</div>
+    <div class="pub-item__authors">{{ entry.author }}</div>
+    <div class="pub-item__venue">
+      {% if entry.journal %}{{ entry.journal }}{% endif %}
+      {% if entry.booktitle %}{{ entry.booktitle }}{% endif %}
+      {% if entry.volume %}, vol. {{ entry.volume }}{% endif %}
+      {% if entry.number %}({{ entry.number }}){% endif %}
+      {% if entry.pages %}, pp. {{ entry.pages }}{% endif %}
+    </div>
+  </div>
+</div>
