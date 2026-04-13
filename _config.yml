@@ -1,8 +1,8 @@
 # Site settings
 title: Ada Fang
 description: >-
-  Ada Fang — PhD student at Harvard, researching machine learning for chemistry and drug discovery.
-url: https://ada-f.github.io
+  Ada Fang — PhD candidate at Harvard, researching machine learning for biology and drug discovery. Kempner Institute Fellow.
+url: https://ada-f.github.io # update to your custom domain once set up, e.g. https://adafang.com
 baseurl: ""
 lang: en
 

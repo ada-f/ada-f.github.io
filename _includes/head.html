@@ -1,7 +1,51 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.title and page.title != "About" %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title>{% if page.title and page.title != "About" %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }} — PhD Candidate at Harvard{% endif %}</title>
 <meta name="description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}">
+<meta name="author" content="Ada Fang">
+<meta name="keywords" content="Ada Fang, Harvard, machine learning, drug discovery, AI for science, Kempner Institute, chemistry, deep learning, computational biology">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ site.title }}">
+<meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/assets/img/Ada_profile_pic.jpeg">
+<meta property="og:site_name" content="{{ site.title }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{ site.twitter }}">
+<meta name="twitter:title" content="{{ site.title }}">
+<meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}">
+<meta name="twitter:image" content="{{ site.url }}/assets/img/Ada_profile_pic.jpeg">
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ada Fang",
+  "url": "{{ site.url }}",
+  "image": "{{ site.url }}/assets/img/Ada_profile_pic.jpeg",
+  "jobTitle": "PhD Candidate",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Harvard University"
+  },
+  "alumniOf": [
+    { "@type": "Organization", "name": "Harvard University" },
+    { "@type": "Organization", "name": "University of Sydney" }
+  ],
+  "sameAs": [
+    "https://scholar.google.com/citations?user={{ site.google_scholar_id }}",
+    "https://x.com/{{ site.twitter }}",
+    "https://linkedin.com/in/{{ site.linkedin }}"
+  ]
+}
+</script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
