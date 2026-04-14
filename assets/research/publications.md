@@ -66,7 +66,7 @@ Paper: https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c02528
 Image: mof.png
 
 
-Authors: Annelies Cannaert, Eric Sparkes, Edward Pike, Jia Lin Luo, Ada Fang, Richard C. Kevin, Ross Ellison, Roy Gerona, Samuel D. Banister*, Christophe P. Stove.
+Authors: Annelies Cannaert, Eric Sparkes, Edward Pike, Jia Lin Luo, Ada Fang, Richard C. Kevin, Ross Ellison, Roy Gerona, Samuel D. Banister, Christophe P. Stove.
 Title: Synthesis and in Vitro Cannabinoid Receptor 1 Activity of Recently Detected Synthetic Cannabinoids 4F-MDMB-BICA, 5F-MPP-PICA, MMB-4en-PICA, CUMYL-CBMICA, ADB-BINACA, APP-BINACA, 4F-MDMB-BINACA, MDMB-4en-PINACA, A-CHMINACA, 5F-AB-P7AICA, 5F-MDMB-P7AICA, and 5F-AP7AICA.
 Year: 2020
 Journal: ACS Chemical Neuroscience

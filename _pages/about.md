@@ -168,7 +168,7 @@ permalink: /
         <div class="pub-item__body">
           <div class="pub-item__tags"><span class="pub-tag pub-tag--year">2020</span></div>
           <div class="pub-item__title">Synthesis and in Vitro Cannabinoid Receptor 1 Activity of Recently Detected Synthetic Cannabinoids</div>
-          <div class="pub-item__authors">Annelies Cannaert, Eric Sparkes, Edward Pike, Jia Lin Luo, <strong>Ada Fang</strong>, Richard C. Kevin, Ross Ellison, Roy Gerona, Samuel D. Banister*, Christophe P. Stove</div>
+          <div class="pub-item__authors">Annelies Cannaert, Eric Sparkes, Edward Pike, Jia Lin Luo, <strong>Ada Fang</strong>, Richard C. Kevin, Ross Ellison, Roy Gerona, Samuel D. Banister, Christophe P. Stove</div>
           <div class="pub-item__venue">ACS Chemical Neuroscience</div>
           <div class="pub-item__links">
             <a href="https://pubs.acs.org/doi/abs/10.1021/acschemneuro.0c00644" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 2l5 5h-5V4zm-3 8h4v2h-4v-2zm0 4h4v2h-4v-2zm-2-4h1v2H8v-2zm0 4h1v2H8v-2z"/></svg>Paper</a>
