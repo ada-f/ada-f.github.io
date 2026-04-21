@@ -8,13 +8,13 @@ Image: clawinstitute.png
 Journal: preprint coming soon
 
 Authors: Lukas Fesser*, Yasha Ektefaie*, Ada Fang*, Marinka Zitnik.
-Title: Exploring Relational Reasoning Capabilities in LLMs with REL
+Title: Evaluating Relational Reasoning in LLMs with REL
 Year: 2026
 Project website: https://zitniklab.hms.harvard.edu/REL/
 Github: https://github.com/ada-f/rel
 Hugging Face: https://huggingface.co/datasets/ada-f/rel 
 Image: rel.png
-Journal: preprint coming soon
+Journal: https://arxiv.org/abs/2604.12176
 
 Authors: Ada Fang, Robert G. Alberstein, Simon Kelow, Frédéric A. Dreyer.
 Title: Tokenizing Loops of Antibodies

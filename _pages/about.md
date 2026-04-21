@@ -69,10 +69,11 @@ permalink: /
         <div class="pub-item__image"><img src="{{ '/assets/research/rel.png' | relative_url }}" alt="REL"></div>
         <div class="pub-item__body">
           <div class="pub-item__tags"><span class="pub-tag pub-tag--year">2026</span></div>
-          <div class="pub-item__title">Exploring Relational Reasoning Capabilities in LLMs with REL</div>
+          <div class="pub-item__title">Evaluating Relational Reasoning in LLMs with REL</div>
           <div class="pub-item__authors">Lukas Fesser*, Yasha Ektefaie*, <strong>Ada Fang</strong>*, Marinka Zitnik</div>
-          <div class="pub-item__venue">preprint coming soon</div>
+          <div class="pub-item__venue">arXiv</div>
           <div class="pub-item__links">
+            <a href="https://arxiv.org/abs/2604.12176" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 2l5 5h-5V4zm-3 8h4v2h-4v-2zm0 4h4v2h-4v-2zm-2-4h1v2H8v-2zm0 4h1v2H8v-2z"/></svg>Paper</a>
             <a href="https://zitniklab.hms.harvard.edu/REL/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>Project</a>
             <a href="https://github.com/ada-f/rel" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>Code</a>
             <a href="https://huggingface.co/datasets/ada-f/rel" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zm-1.5 7a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zm6 0a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM7.5 14.5c0-2.5 2-4.5 4.5-4.5s4.5 2 4.5 4.5"/></svg>Dataset</a>
