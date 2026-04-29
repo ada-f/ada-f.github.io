@@ -720,14 +720,23 @@ strong {
 }
 
 .pub-item__award {
-  display: inline-block;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  width: 100%;
+  box-sizing: border-box;
   font-size: 0.76rem;
   font-weight: 600;
-  color: #b45309;
-  background: rgba(180, 83, 9, 0.07);
-  padding: 0.15rem 0.55rem;
+  color: #4f46e5;
+  background: rgba(79, 70, 229, 0.08);
+  padding: 0.2rem 0.7rem;
   border-radius: 100px;
   margin-top: 0.4rem;
+
+  &::before {
+    content: "⭐";
+    flex-shrink: 0;
+  }
 }
 
 .pub-item__links {

@@ -27,7 +27,10 @@ Journal: mAbs
 Authors: Ada Fang, Michael Desgagné, Zaixi Zhang, Andrew Zhou, Joseph Loscalzo, Bradley L. Pentelute, Marinka Zitnik.
 Title: Learning Universal Representations of Intermolecular Interactions with ATOMICA
 Year: 2025
-Award: Selected for Oral at ICML 2025, GenBio Workshop.
+Award: 
+* First prize poster award at Eric and Wendy Schmidt Center Symposium on Biomedical Science and AI (2026).
+* Selected for Oral at ICML GenBio Workshop (2025).
+* Best Theoretical Chemistry Talk at Harvard Chemistry and Chemical Biology Department's Symposium (2024).
 Paper: https://www.biorxiv.org/content/10.1101/2025.04.02.646906
 Github: https://github.com/mims-harvard/ATOMICA
 Hugging Face: https://huggingface.co/ada-f/ATOMICA 
