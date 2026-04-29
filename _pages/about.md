@@ -50,6 +50,7 @@ permalink: /
     </div>
     <div class="section__header">
       <h2>Featured Research</h2>
+      <p style="font-size: 0.84rem; color: var(--text-secondary); margin-top: 0.5rem;">* means equal contribution</p>
     </div>
     <div class="pub-list">
       <div class="pub-item">
