@@ -1,5 +1,13 @@
 "*" means equal contribution
 
+Authors: Ada Fang*, Shanghua Gao*, Marinka Zitnik.
+Title: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation. 
+Year: 2026
+Image: autoscientists.png
+Journal: preprint coming soon
+Note:
+* Invited talk at Scale AI and Human Frontier Collective (May 2026).
+
 Authors: Shanghua Gao*, Ada Fang*, Marinka Zitnik.
 Title: ClawInstitute: A Research Exchange for AI Scientists. 
 Year: 2026
@@ -14,7 +22,7 @@ Project website: https://zitniklab.hms.harvard.edu/REL/
 Github: https://github.com/ada-f/rel
 Hugging Face: https://huggingface.co/datasets/ada-f/rel 
 Image: rel.png
-Journal: https://arxiv.org/abs/2604.12176
+Journal: ICML 2026 https://arxiv.org/abs/2604.12176
 
 Authors: Ada Fang, Robert G. Alberstein, Simon Kelow, Frédéric A. Dreyer.
 Title: Tokenizing Loops of Antibodies
