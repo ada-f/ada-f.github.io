@@ -7,6 +7,7 @@ Image: autoscientists.png
 Journal: preprint coming soon
 Note:
 * Invited talk at Scale AI and Human Frontier Collective (May 2026).
+* Top Three Talk at Harvard Chemistry and Chemical Biology Department Symposium (2026).
 
 Authors: Shanghua Gao*, Ada Fang*, Marinka Zitnik.
 Title: ClawInstitute: A Research Exchange for AI Scientists. 
@@ -38,7 +39,7 @@ Year: 2025
 Award: 
 * First prize poster award at Eric and Wendy Schmidt Center Symposium on Biomedical Science and AI (2026).
 * Selected for Oral at ICML GenBio Workshop (2025).
-* Best Theoretical Chemistry Talk at Harvard Chemistry and Chemical Biology Department's Symposium (2024).
+* Best Theoretical Chemistry Talk at Harvard Chemistry and Chemical Biology Department Symposium (2024).
 Paper: https://www.biorxiv.org/content/10.1101/2025.04.02.646906
 Github: https://github.com/mims-harvard/ATOMICA
 Hugging Face: https://huggingface.co/ada-f/ATOMICA 
