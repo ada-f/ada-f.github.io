@@ -34,7 +34,7 @@ permalink: /
       </div>
       <div class="hero__bio">
         <p>I am a PhD candidate at Harvard in the Department of Chemistry and Chemical Biology, advised by Prof. <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a>. I am a graduate student fellow at the <a href="https://www.harvard.edu/kempner-institute/leadership/#students">Kempner Institute for the Study of Natural and Artificial Intelligence</a>.</p>
-        <p>My research lies at the intersection of biology and AI. I work on developing better AI models to understand molecules and the AI scientists to empower autonomous discovery.</p>
+        <p>My research lies at the intersection of biology and AI. I work on developing better AI models to understand molecules and the AI scientists to empower autonomous discovery. I have previously held research positions at Google DeepMind and Genentech.</p>
       </div>
     </div>
   </div>
