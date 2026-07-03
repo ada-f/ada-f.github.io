@@ -769,6 +769,27 @@ strong {
       fill: currentColor;
     }
   }
+
+  .pub-stars {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    font-family: "Consolas", "Menlo", var(--font-mono);
+    color: var(--text-secondary);
+    padding: 0.2rem 0.55rem;
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    cursor: default;
+
+    &::before {
+      content: "★";
+      color: #eab308;
+      font-size: 0.82rem;
+      line-height: 1;
+    }
+  }
 }
 
 // ===========================================

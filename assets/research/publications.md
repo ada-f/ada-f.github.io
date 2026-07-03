@@ -4,7 +4,9 @@ Authors: Ada Fang*, Shanghua Gao*, Marinka Zitnik.
 Title: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation. 
 Year: 2026
 Image: autoscientists.png
-Journal: preprint coming soon
+Project website: https://autoscientists.openscientist.ai
+Preprint: https://arxiv.org/abs/2605.28655
+Github: https://github.com/mims-harvard/AutoScientists
 Note:
 * Invited talk at Scale AI and Human Frontier Collective (May 2026).
 * Top Three Talk at Harvard Chemistry and Chemical Biology Department Symposium (2026).
@@ -16,7 +18,7 @@ Project website: https://clawinstitute.aiscientist.tools/blog
 Image: clawinstitute.png
 Journal: preprint coming soon
 
-Authors: Lukas Fesser*, Yasha Ektefaie*, Ada Fang*, Marinka Zitnik.
+Authors: Lukas Fesser*, Yasha Ektefaie*, Ada Fang*, Sham Kakade, Marinka Zitnik.
 Title: Evaluating Relational Reasoning in LLMs with REL
 Year: 2026
 Project website: https://zitniklab.hms.harvard.edu/REL/
