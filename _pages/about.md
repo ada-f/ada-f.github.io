@@ -37,6 +37,7 @@ permalink: /
         <p>My research lies at the intersection of biology and AI. I work on developing better AI models to understand molecules and the AI scientists to empower autonomous discovery. I have previously held research positions at Google DeepMind and Genentech.</p>
       </div>
     </div>
+
   </div>
 </section>
 
@@ -58,11 +59,21 @@ permalink: /
         <div class="pub-item__body">
           <div class="pub-item__tags"><span class="pub-tag pub-tag--year">2026</span></div>
           <div class="pub-item__title">Closing the Loop in AI-Driven Biomedical Discovery</div>
-          <div class="pub-item__authors"><strong>Ada Fang</strong>, Kevin Li *, Ayush Noori *, Lukas Fesser *, Marinka Zitnik</div>
+          <div class="pub-item__authors"><strong>Ada Fang</strong>, Kevin Li*, Ayush Noori*, Lukas Fesser*, Marinka Zitnik</div>
           <div class="pub-item__venue">In review</div>
           <div class="pub-item__links">
             <a href="https://www.preprints.org/manuscript/202608.2107" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 2l5 5h-5V4zm-3 8h4v2h-4v-2zm0 4h4v2h-4v-2zm-2-4h1v2H8v-2zm0 4h1v2H8v-2z"/></svg>Paper</a>
           </div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-item__image"><img src="{{ '/assets/research/World_models_for_biomedicine.jpg' | relative_url }}" alt="World models for biomedicine"></div>
+        <div class="pub-item__body">
+          <div class="pub-item__tags"><span class="pub-tag pub-tag--year">2026</span></div>
+          <div class="pub-item__title">World models for biomedicine</div>
+          <div class="pub-item__authors">Ayush Noori<sup>#</sup>, Nic Fishman<sup>#</sup>, <strong>Ada Fang</strong>*, Lukas Fesser*, Marinka Zitnik</div>
+          <div class="pub-item__venue">Cell</div>
         </div>
       </div>
 
@@ -223,6 +234,7 @@ permalink: /
         </div>
       </div>
     </div>
+
   </div>
 </section>
 
@@ -329,6 +341,7 @@ permalink: /
         </div>
       </div>
     </div>
+
   </div>
 </section>
 
@@ -417,6 +430,7 @@ permalink: /
         </div>
       </div>
     </div>
+
   </div>
 </section>
 
@@ -462,6 +476,7 @@ permalink: /
         </ul>
       </div>
     </div>
+
   </div>
 </section>
 
@@ -504,6 +519,7 @@ permalink: /
         <div class="community-item__date">2024 – Present</div>
       </div>
     </div>
+
   </div>
 </section>
 
