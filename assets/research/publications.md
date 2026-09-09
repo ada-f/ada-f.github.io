@@ -21,6 +21,14 @@ Paper: https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphageno
 Project website: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/
 Journal: In review
 
+Authors: Tianyu Liu, Allen Xin Wang … Ada Fang, … Hongyu Zhao
+Title: Benchmarking AI Agents for Addressing Scientific Challenges Across Scales
+Year: 2026
+Image: sci_agent_arena.png
+Paper: https://arxiv.org/abs/2606.12736
+Project website: https://sciagentarena.github.io/
+Journal: In review
+
 Authors: Ada Fang*, Shanghua Gao*, Marinka Zitnik.
 Title: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation.
 Year: 2026
@@ -69,7 +77,7 @@ Award:
   Hugging Face: https://huggingface.co/ada-f/ATOMICA
   Dataset: https://doi.org/10.7910/DVN/4DUBJX
   Image: atomica.png
-  Journal: bioRxiv
+  Journal: In review
 
 Authors: Shanghua Gao, Ada Fang*, Yepeng Huang*, Valentina Giunchiglia*, Ayush Noori, Jonathan Richard Schwarz, Yasha Ektefaie, Jovana Kondic, Marinka Zitnik.
 Title: Empowering biomedical discovery with AI agents
