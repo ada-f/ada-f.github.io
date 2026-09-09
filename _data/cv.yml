@@ -11,10 +11,10 @@
       institution: Massachusetts Institute of Technology
       year: 2022-present
       description:
-          - "6.7900 Machine Learning - GRD: A"
-          - "6.S966 Symmetry and its Application to Machine Learning - GRD: A+"
-          - "6.S986 Large Language Models and Beyond - audited"
-          - "6.S898 Deep Learning - GRD: A+"
+        - "6.7900 Machine Learning - GRD: A"
+        - "6.S966 Symmetry and its Application to Machine Learning - GRD: A+"
+        - "6.S986 Large Language Models and Beyond - audited"
+        - "6.S898 Deep Learning - GRD: A+"
     - title: Bachelor of Science (Honours)
       institution: University of Sydney
       year: 2018-2021
@@ -49,7 +49,6 @@
       description:
         - "Revolutionized launcher search in Chrome OS by developing a robust statistical model using quantile transformation and reservoir sampling to rank scores of search results to replace former heuristic based search result ranking method."
         - "Successfully completed entire design process: design docs, design reviews and implementation of new classes in C++ in the Chromium code base. Also led testing of infrastructure with unit tests."
-
 
 - title: Mentoring and Teaching Experience
   type: time_table
@@ -86,7 +85,6 @@
         - Partnered with various companies to host and manage diverse events such as women in STEM panels, trade-a-thons and successful cocktail nights with 100+ attendees.
         - Secured Google as a new major sponsor for our 2019 Women in STEM Night and doubled our sponsors from 2019 to 2020.
 
-
 - title: Fellowships and Awards
   type: time_table
   contents:
@@ -100,23 +98,22 @@
         - Janet Elspeth Crawford Prize in Chemistry
     - year: 2019
       items:
-      - "Australian Gov. Endeavour Leadership Program Mobility Grant"
-      - "Charles E Fawsitt Prize for Chemistry"
-      - "Levey Scholarship No III for Chemistry"
-      - "Dean's List of Excellence in Academic Performance"
-      - "Academic Merit Scholarship"
-      - "Mrs Elva Rae Talented Mathematics Student Award for highest achieving female student in mathematics"
+        - "Australian Gov. Endeavour Leadership Program Mobility Grant"
+        - "Charles E Fawsitt Prize for Chemistry"
+        - "Levey Scholarship No III for Chemistry"
+        - "Dean's List of Excellence in Academic Performance"
+        - "Academic Merit Scholarship"
+        - "Mrs Elva Rae Talented Mathematics Student Award for highest achieving female student in mathematics"
     - year: 2018
       items:
-      - Vice Chancellor Scholarship for students with a 99.95 ATAR (awarded to top 0.05% of students in the state of New South Wales, Australia)
-      - Liversidge Chemistry Scholarship
-      - Science Olympiad Scholarship
-      - Science Top of State Scholarship
-      - 49th International Chemistry Olympiad Bronze Medal selected as one of four students from Australia to compete internationally
+        - Vice Chancellor Scholarship for students with a 99.95 ATAR (awarded to top 0.05% of students in the state of New South Wales, Australia)
+        - Liversidge Chemistry Scholarship
+        - Science Olympiad Scholarship
+        - Science Top of State Scholarship
+        - 49th International Chemistry Olympiad Bronze Medal selected as one of four students from Australia to compete internationally
     - year: 2017
       items:
-      - Bronze Medal at 49th International Chemistry Olympiad
-
+        - Bronze Medal at 49th International Chemistry Olympiad
 
 - title: Conferences
   type: list

@@ -42,11 +42,27 @@ jobs:
   link-checker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+
+      # Build the site first so links are checked against the rendered HTML
+      # instead of raw source (which contains unresolved Liquid tags like
+      # `{{ '/assets/...' | relative_url }}` that the checker cannot follow).
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build with Jekyll 🔧
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
 
       - name: Link Checker 🔗
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
+          # --offline checks only local links (skips flaky external hosts that
+          # return 401/403/429); the remap resolves site-root asset URLs to files.
+          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'

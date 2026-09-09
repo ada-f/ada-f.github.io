@@ -6,17 +6,22 @@
 (function () {
   "use strict";
 
-  var THRESHOLD = 100;                 // only display repos with more than this many stars
-  var CACHE_TTL = 3 * 60 * 60 * 1000;  // 3 hours
+  var THRESHOLD = 100; // only display repos with more than this many stars
+  var CACHE_TTL = 3 * 60 * 60 * 1000; // 3 hours
   var CACHE_KEY = "gh-stars-cache-v1";
 
   function loadCache() {
-    try { return JSON.parse(localStorage.getItem(CACHE_KEY)) || {}; }
-    catch (e) { return {}; }
+    try {
+      return JSON.parse(localStorage.getItem(CACHE_KEY)) || {};
+    } catch (e) {
+      return {};
+    }
   }
 
   function saveCache(cache) {
-    try { localStorage.setItem(CACHE_KEY, JSON.stringify(cache)); } catch (e) {}
+    try {
+      localStorage.setItem(CACHE_KEY, JSON.stringify(cache));
+    } catch (e) {}
   }
 
   function formatStars(n) {
@@ -44,19 +49,23 @@
     var repo = m[1] + "/" + m[2];
 
     var cached = cache[repo];
-    if (cached && (now - cached.t) < CACHE_TTL) {
+    if (cached && now - cached.t < CACHE_TTL) {
       render(item, link, cached.s);
       return;
     }
 
     fetch("https://api.github.com/repos/" + repo)
-      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (r) {
+        return r.ok ? r.json() : null;
+      })
       .then(function (data) {
         if (!data || typeof data.stargazers_count !== "number") return;
         cache[repo] = { s: data.stargazers_count, t: Date.now() };
         saveCache(cache);
         render(item, link, data.stargazers_count);
       })
-      .catch(function () { /* offline or rate-limited: silently skip */ });
+      .catch(function () {
+        /* offline or rate-limited: silently skip */
+      });
   });
 })();
