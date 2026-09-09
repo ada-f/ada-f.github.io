@@ -1,5 +1,20 @@
 "*" means equal contribution
 
+Authors: Ada Fang, Kevin Li *, Ayush Noori *, Lukas Fesser *, Marinka Zitnik
+Title: Closing the Loop in AI-Driven Biomedical Discovery
+Year: 2026
+Image: research_loop.png
+Paper: https://www.preprints.org/manuscript/202608.2107
+Journal: In review
+
+Authors: Jun Cheng*, Kyle R. Taylor* … Ada Fang, … Pushmeet Kohli, Žiga Avsec
+Title: AlphaGenome Atlas: in silico mutagenesis of the entire human genome improves prioritization and interpretation of non-coding variants
+Year: 2026
+Image: alphagenome_atlas.jpeg
+Paper: https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/alphagenome-atlas.pdf
+Project website: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/
+Journal: In review
+
 Authors: Ada Fang*, Shanghua Gao*, Marinka Zitnik.
 Title: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation. 
 Year: 2026
@@ -16,7 +31,6 @@ Title: ClawInstitute: A Research Exchange for AI Scientists.
 Year: 2026
 Project website: https://clawinstitute.aiscientist.tools/blog
 Image: clawinstitute.png
-Journal: preprint coming soon
 
 Authors: Lukas Fesser*, Yasha Ektefaie*, Ada Fang*, Sham Kakade, Marinka Zitnik.
 Title: Evaluating Relational Reasoning in LLMs with REL
