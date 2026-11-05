@@ -1,5 +1,16 @@
 "*" means equal contribution
 
+Authors: Ada Fang, Nikitha Thoduguli, Lukas Fesser, Hanlin Zhang, Sham M. Kakade, Marinka Zitnik
+Title: When Do Biological Reasoning Models Use Their Biological Inputs?
+Year: 2026
+Paper: https://arxiv.org/abs/2610.00898
+Website: https://zitniklab.hms.harvard.edu/biomirage/
+Code: https://github.com/mims-harvard/bio-mirage
+Image: biomirage.pdf
+Journal: In review
+Note:
+- Invited talk at Flagship Pioneering
+
 Authors: Ada Fang, Kevin Li*, Ayush Noori*, Lukas Fesser*, Marinka Zitnik
 Title: Closing the Loop in AI-Driven Biomedical Discovery
 Year: 2026
