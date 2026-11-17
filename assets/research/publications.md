@@ -17,7 +17,7 @@ Title: Closing the Loop in AI-Driven Biomedical Discovery
 Year: 2026
 Image: research_loop.png
 Paper: https://www.preprints.org/manuscript/202608.2107
-Journal: In review
+Journal: Nature Reviews Computing (in press)
 
 Authors: Ayush Noori#, Nic Fishman#, Ada Fang*, Lukas Fesser*, Marinka Zitnik
 Title: World models for biomedicine

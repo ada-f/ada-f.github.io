@@ -76,7 +76,7 @@ permalink: /
           <div class="pub-item__tags"><span class="pub-tag pub-tag--year">2026</span></div>
           <div class="pub-item__title">Closing the Loop in AI-Driven Biomedical Discovery</div>
           <div class="pub-item__authors"><strong>Ada Fang</strong>, Kevin Li*, Ayush Noori*, Lukas Fesser*, Marinka Zitnik</div>
-          <div class="pub-item__venue">In review</div>
+          <div class="pub-item__venue">Nature Reviews Computing (in press)</div>
           <div class="pub-item__links">
             <a href="https://www.preprints.org/manuscript/202608.2107" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 2l5 5h-5V4zm-3 8h4v2h-4v-2zm0 4h4v2h-4v-2zm-2-4h1v2H8v-2zm0 4h1v2H8v-2z"/></svg>Paper</a>
           </div>
