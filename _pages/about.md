@@ -127,7 +127,7 @@ permalink: /
           <div class="pub-item__tags"><span class="pub-tag pub-tag--year">2026</span></div>
           <div class="pub-item__title">AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation</div>
           <div class="pub-item__authors"><strong>Ada Fang</strong>*, Shanghua Gao*, Marinka Zitnik</div>
-          <div class="pub-item__venue">In review</div>
+          <div class="pub-item__venue">NeurIPS 2026</div>
           <div class="pub-item__award">Invited talk at Scale AI and Human Frontier Collective (May 2026)</div>
           <div class="pub-item__award">Top Three Talk at Harvard Chemistry and Chemical Biology Department Symposium (2026)</div>
           <div class="pub-item__links">

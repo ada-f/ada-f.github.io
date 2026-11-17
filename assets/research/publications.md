@@ -48,6 +48,7 @@ Image: autoscientists.png
 Project website: https://autoscientists.openscientist.ai
 Preprint: https://arxiv.org/abs/2605.28655
 Github: https://github.com/mims-harvard/AutoScientists
+Journal: NeurIPS 2026
 Note:
 
 - Invited talk at Scale AI and Human Frontier Collective (May 2026).
